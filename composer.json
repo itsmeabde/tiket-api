@@ -1,12 +1,12 @@
 {
-    "name": "itsmeabde/TiketApi",
+    "name": "itsmeabde/tiket-api",
     "type": "library",
     "description": "Laravel package for using api tiket.com",
     "keywords": [
         "itsmeabde",
-        "TiketApi"
+        "tiket api"
     ],
-    "homepage": "https://github.com/itsmeabde/TiketApi",
+    "homepage": "https://github.com/itsmeabde/tiket-api",
     "license": "MIT",
     "authors": [
         {

@@ -10,7 +10,7 @@ use itsmeabde\TiketApi\Exceptions\TiketException;
 
 /**
  * Class AuthApi that implement necessary functionality to obtain an access token from a user
- * @package itsmeabde\TiketApi
+ * @package itsmeabde\tiketApi
  */
 abstract class AuthApi
 {

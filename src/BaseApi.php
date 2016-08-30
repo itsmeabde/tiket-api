@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Config;
 
 /**
  * Class BaseService for all request Api
- * @package itsmeabde\TiketApi
+ * @package itsmeabde\tiketApi
  */
 class BaseApi extends AuthApi
 {
