@@ -9,7 +9,7 @@ See the [DOCS][link-docs] for documentation
 
 ## Install
 
-Via Composer
+Via composer
 
 ``` bash
 $ composer require itsmeabde/tiket-api
@@ -54,7 +54,7 @@ class FlightController extends Controller
 }
 ```
 
-Or you want create your own BaseTiketController extends BaseController
+Or you want create your own controller extends baseController
 ``` php
 use Illuminate\Routing\Controller as BaseController;
 use itsmeabde\TiketApi\TiketApi;
@@ -69,7 +69,7 @@ class BaseTiketController extends BaseController
 }
 ```
 
-So you can call tiket Object from class inheritance BaseTiketController without declare new Object TiketApi for many times.
+So you can call tiket object from class inheritance your own Controller without declare new object tiketApi for many times.
 ``` php
 use Illuminate\Http\Request;
 
