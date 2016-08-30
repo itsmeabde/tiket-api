@@ -12,7 +12,7 @@ See the [DOCS][link-docs] for documentation
 Via Composer
 
 ``` bash
-$ composer require itsmeabde/TiketApi
+$ composer require itsmeabde/tiket-api
 ```
 
 Once this has finish, you will need to add the service provider to the ```providers``` array in your ```app.php``` config as follows:
