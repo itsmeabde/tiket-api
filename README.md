@@ -101,12 +101,12 @@ If you discover any bug related issues, please email <itsmeabde@gmail.com> inste
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/itsmeabde/tiketapi.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/itsmeabde/tiket-api.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/itsmeabde/tiketapi.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/itsmeabde/tiket-api.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/itsmeabde/TiketApi
-[link-downloads]: https://packagist.org/packages/itsmeabde/TiketApi
+[link-packagist]: https://packagist.org/packages/itsmeabde/tiket-api
+[link-downloads]: https://packagist.org/packages/itsmeabde/tiket-api
 [link-author]: https://github.com/itsmeabde
 [link-tiket]: https://www/.tiket.com
 [link-docs]: http://docs.tiket.com
