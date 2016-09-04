@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/itsmeabde/tiket-api.png?label=ready&title=Ready)](https://waffle.io/itsmeabde/tiket-api)
 # Laravel Tiket Api's
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
