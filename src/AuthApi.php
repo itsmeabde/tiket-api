@@ -32,7 +32,7 @@ abstract class AuthApi
      * @return string
      * @throws TiketException
      */
-    private static function getToken()
+    private function getToken()
     {
         $params = [
             'verify' => Config::get('tiket.verify'),
@@ -43,7 +43,7 @@ abstract class AuthApi
             ]
         ];
 
-        $url = self::url(Config::get('tiket.get_token'));
+        $url = $this->url(Config::get('tiket.get_token'));
         $client = new Client(self::onStat());
         try {
             $response = $client->request('GET', $url, $params);
